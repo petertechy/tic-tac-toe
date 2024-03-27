@@ -26,6 +26,10 @@ body {
 }
 
 .result {
-    margin-top: 20px;
-    font-size: 20px;
+    position: absolute;
+    z-index: 3;
+    top: 77vh;
+    left: 500px;
+    font-size: 45px;
+    color: green;
 }
